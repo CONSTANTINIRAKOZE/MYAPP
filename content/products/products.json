@@ -1,0 +1,95 @@
+[
+ {
+    "id" : 1,
+    "name" : "CHECK OUT THE COLLECTION",
+    "onSale" : true,
+    "tags" : ["Cart", "Shopping"],
+    "image" : "/photos/pexels-suzy-hazelwood-2536965.jpg",
+    "description" : "Such  a beautiful material for everyone and each and every race age superior and ewana kbx",
+    "price" : 20000,
+    "salePrice" : null,
+    "ratings" : 4.0
+ } ,
+ {
+    "id" : 2,
+    "name" : "Silky Shirts",
+    "onSale" : true,
+    "tags" : ["Headphone", "people"],
+    "image" : "/photos/pexels-evg-kowalievska-1148957.jpg",
+    "description" : "Such  a beautiful material for everyone and each and every race age superior and ewana kbx",
+    "price" : 15000,
+    "salePrice" : null,
+    "ratings" : 3.0
+ } ,
+ {
+    "id" : 3,
+    "name" : "Pack of shirts ",
+    "onSale" : false,
+    "tags" : ["Clothes", "men"],
+    "image" : "/photos/pexels-kai-pilger-996329.jpg",
+    "description" : "Such  a beautiful material for everyone and each and every race age superior and ewana kbx",
+    "price" : 18000,
+    "salePrice" : null,
+    "ratings" : 3.5
+ } ,{
+    "id" : 4,
+    "name" : "Pure Full Pack",
+    "onSale" : true,
+    "tags" : ["Shoes", "men"],
+    "image" : "/photos/pexels-lumn-322207.jpg",
+    "description" : "Such  a beautiful material for everyone and each and every race age superior and ewana kbx",
+    "price" : 30000,
+    "salePrice" : null,
+    "ratings" : 5
+ } ,{
+    "id" : 5,
+    "name" : "HP ELITE BOOK",
+    "onSale" : true,
+    "tags" : ["Computer", "all"],
+    "image" : "/photos/pexels-mateusz-dach-450035.jpg",
+    "description" : "Such  a beautiful material for everyone and each and every race age superior and ewana kbx",
+    "price" : 120000,
+    "salePrice" : null,
+    "ratings" : 4.5
+ } ,{
+    "id" : 6,
+    "name" : "Nike Zoom shoes",
+    "onSale" : true,
+    "tags" : ["Shoes", "men"],
+    "image" : "/photos/pexels-melvin-buezo-2529148.jpg",
+    "description" : "Such  a beautiful material for everyone and each and every race age superior and ewana kbx",
+    "price" : 20000,
+    "salePrice" : null,
+    "ratings" : 4.0
+ } ,{
+    "id" : 7,
+    "name" : "Jordan 1 Shoes",
+    "onSale" : false,
+    "tags" : ["Shoes", "men"],
+    "image" : "/photos/pexels-mnz-1598505.jpg",
+    "description" : "Such  a beautiful material for everyone and each and every race age superior and ewana kbx",
+    "price" : 10000,
+    "salePrice" : null,
+    "ratings" : 4.0
+ } ,{
+    "id" : 8,
+    "name" : "Mocasin Shoes",
+    "onSale" : true,
+    "tags" : ["Shoes", "men"],
+    "image" : "/photos/pexels-pixabay-267320.jpg",
+    "description" : "Such  a beautiful material for everyone and each and every race age superior and ewana kbx",
+    "price" : 6000,
+    "salePrice" : null,
+    "ratings" : 3.0
+ } ,{
+    "id" : 9,
+    "name" : "Digital Watch",
+    "onSale" : false,
+    "tags" : ["Watch", "People"],
+    "image" : "/photos/pexels-element-digital-1470167.jpg",
+    "description" : "Such  a beautiful material for everyone and each and every race age superior and ewana kbx",
+    "price" : 20000,
+    "salePrice" : null,
+    "ratings" : 4.0
+ } 
+]

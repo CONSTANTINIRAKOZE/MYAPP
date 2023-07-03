@@ -1,0 +1,22 @@
+[{
+    "id" : 1,
+    "name" : "Shoes",
+    "image" : "/photos/pexels-lumn-322207.jpg" 
+},
+
+{
+    "id" :2 ,
+    "name" : "Clothes",
+    "image" :  "/photos/pexels-evg-kowalievska-1148957.jpg"
+},
+{
+    "id" : 3,
+    "name" : "Computer",
+    "image" : "/photos/pexels-mateusz-dach-450035.jpg"
+},{
+    "id" : 4,
+    "name" : "Watch",
+    "image" : "/photos/pexels-element-digital-1470167.jpg"
+}
+
+]
